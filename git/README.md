@@ -7,16 +7,36 @@
 ![Isika](https://repository-images.githubusercontent.com/124369770/d12e6800-b47a-11e9-85a3-5fe53e198d49)
 
 ---
-## `How to create a repository.`
+## How to create a repository.
 
-* `Install git and create a GitHub account`
-* `Create a local git repository`
-* `Add a new file to the repo`
-* `Add a file to the staging environment`
-* `Create a commit`
-* `Create a new branch`
-* `Create a new repository on GitHub.
-`
+### 1. Install git and create a GitHub account
+
+###### Go the Store of your device or in the official web and download Git. Use your email and the required credentials to create an account.
+
+### 2. Create a local git repository
+
+###### In order to create a local git repository. You firstly have to create a directory to contain the project. Then go into the new directory, type git init. Write some code, type git add to add the files (see the typical use page). And than the final step is to type git commit.
+
+### 3. Add a new file to the repo
+
+###### Click the button on the Repo section. The button should be labeled "Add New File" or "Create New File", it depends on which version or software you are using.
+
+### 4. Add a file to the staging environment
+
+###### Nearly the same process as step 3. Go to the staging environment section and click the following button that is labeled "Add New File" or "Create New File".
+
+### 5. Create a commit
+
+###### In order for to create a commit, you have to add a Git commit message to your commit, you will use the git commit command followed by the -m flag and then your message in quotes
+
+### 6. Create a new branch
+
+###### Branch can be easily created. You just need to duplicate the project you want to edit or make changes, which don't apply to the main project. You just need to find the command on the web that enlists "Duplicate the following.." or "Make a copy of the following.." .
+
+### 7. Create a new repository on GitHub
+
+###### In the upper-right corner of any page, use the drop-down menu, and select New repository. Type a short, memorable name for your repository. ... Optionally, add a description of your repository. ... Choose a repository visibility. ... Select Initialize this repository with a README. Click Create repository. And there you have it!
+
 ---
 
 **The standard key commands in order to apply the changes to the main server of GitHub are 3 core elements ↓
@@ -44,5 +64,4 @@ Tip: You can use the conflict editor on GitHub to resolve competing line change 
 ---
 
                                       So long! #Holbie
-
-![Image](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/logo.jpg?format=2500w) 
+   ![Image](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/logo.jpg?format=2500w) 

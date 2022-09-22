@@ -39,7 +39,7 @@
 
 ---
 
-**The standard key commands in order to apply the changes to the main server of GitHub are 3 core elements ↓
+**The standard key commands in order to apply the changes to the main server of GitHub are 3 core elements** ↓
 ```shell 
 (“git add .” -> ”git commit -m “NAME” -> “git push”)
 ```
@@ -54,7 +54,7 @@ Once created, you can use git checkout new_branch to switch to that branch.***
 
 ## `How can we address conflicts?`
 
-Merge conflicts occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file. For more information, see ''[About merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)''
+***Merge conflicts occur when competing changes are made to the same line of a file, or when one person edits a file and another person deletes the same file. For more information, see ''[About merge conflicts](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/addressing-merge-conflicts/about-merge-conflicts)''***
 
 
 `
@@ -64,4 +64,4 @@ Tip: You can use the conflict editor on GitHub to resolve competing line change 
 ---
 
                                       So long! #Holbie
-   ![Image](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/logo.jpg?format=2500w) 
+   ![Image](https://images.squarespace-cdn.com/content/v1/5a4bfe8bf09ca4228ceca3b7/1539139199598-ANH454IHZI1OKWONKRXY/logo.jpg?format=2500w)  
